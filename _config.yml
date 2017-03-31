@@ -1,0 +1,30 @@
+# Site Settings
+title:               Upbeing
+tagline:             Sustainability Leaders for Sustainable Future
+description:
+baseurl:            #"/upbeing"
+url:                #"https://github.com/upbeing"
+github:
+  url:               #" https://upbeing.github.io/blog/"
+author:
+  name:              "Upbeing"
+  email:             "info@upbeing.com"
+  website:           "http://upbeing.sxl.cn"
+
+
+navigation:
+- title: About
+  url: /about
+- title: Writing
+  url: /writing
+- title: Contact
+  url: /contact
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
