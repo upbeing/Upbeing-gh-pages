@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+![](http://ob49cesbh.bkt.clouddn.com/2017-04-01-Hi There.png)
 
 Upbeing是NPI（中国最大的社会企业和公益机构孵化器）2017年重点孵化的10家社会企业和公益机构之一。我们的使命是通过个性化社区式成长培养中学生成为未来可持续发展人才。
 
