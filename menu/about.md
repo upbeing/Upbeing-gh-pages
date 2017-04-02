@@ -9,7 +9,7 @@ Upbeing是NPI（中国最大的社会企业和公益机构孵化器）2017年重
 Upbeing is an NPI ( The biggest social enterprises and social organizations incubator in China )awarded social enterprise pioneer in China. Our mission is to cultivate youth to become sustainable talents and leaders by personalized learning and leadership development.
 
 
-##“个性化”让中学生脱颖而出
+“个性化”让中学生脱颖而出
 
 **"PERSONALIZED DEVELOPMENT" helps youth to become exceptions**
 
